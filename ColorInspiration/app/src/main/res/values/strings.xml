@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Color Inspiration</string>
+    <string name="app_name">Random Color Generator</string>
+    <string name="abbreviated_app_name">RCG</string>
     <string name="another">Another!</string>
-    <string name="copyRGBbutton">Copy RGB</string>
-    <string name="copyHSVbutton">Copy HSV</string>
-    <string name="action_settings">Coming Soon</string>
+    <string name="copyRGB">Copy RGB</string>
+    <string name="copyHSV">Copy HSV</string>
+    <string name="copyHex">Copy Hex</string>
+    <string name="action_settings">Settings</string>
 
 </resources>

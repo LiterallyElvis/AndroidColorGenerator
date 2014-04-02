@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.literallyelvis.randomcolorgenerator.MainActivity" >
+
+    <item android:id="@+id/Copy"
+        android:title="@string/Copy"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/showValues"
+        android:title="@string/showValues"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:checkable="true" />
+</menu>

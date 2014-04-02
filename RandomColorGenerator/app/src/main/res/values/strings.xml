@@ -5,8 +5,13 @@
     <string name="abbreviated_app_name">RCG</string>
     <string name="another">Another!</string>
     <string name="copyRGB">Copy RGB</string>
+    <string name="Copy">Copy...</string>
     <string name="copyHSV">Copy HSV</string>
     <string name="copyHex">Copy Hex</string>
+    <string name="showValues">Show Values</string>
+    <string name="RGBInfo">Red:    000&#10;Green: 000&#10;Blue:    000</string>
+    <string name="HexInfo">0xFFFFFFFF</string>
+    <string name="HSVInfo">Hue:    00000&#10;Sat:    00000&#10;Value: 00000</string>
     <string name="action_settings">Settings</string>
 
 </resources>
